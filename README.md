@@ -10,7 +10,10 @@ Este repositorio contiene mi portafolio de proyectos de análisis de datos.
  
 ## Herramientas y Tecnologías Utilizadas
 
-* R/SQL/Tableau
+* R
+* SQL
+* Tableau
+* Excel
 
 
 ## Educación
@@ -18,6 +21,10 @@ Este repositorio contiene mi portafolio de proyectos de análisis de datos.
 * Economista graduado con honores en la Universidad de la Habana
 * Professional Certificate of Data Analytics by Google
 * Professional Certificate of Project Management by Google
+
+## Datos
+
+https://www.kaggle.com/datasets/arashnic/fitbit
 
 
 
